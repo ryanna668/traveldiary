@@ -1,0 +1,58 @@
+.pinkblock {
+    border-radius: 20px;
+    background-color: #E8C7C6;
+    padding: 15px 30px 15px 30px;
+    vertical-align: top;
+}
+
+.yellowblock{
+    border-radius: 20px;
+    background-color: #F7F4EB;
+    padding: 15px 30px 15px 30px;
+    vertical-align: top;
+}
+
+.rounded {
+    border-radius: 20px;
+    height: auto;
+}
+
+body{
+    background-color: #EAE0DA;
+    font-family: Verdana, sans-serif;
+
+    line-height: 24px;
+}
+img{
+  border-radius: 20px; 
+  width: 100%;
+  display: block;
+}
+
+
+.space{
+    border-spacing: 15px;
+
+    
+}
+
+a:link {
+    color: #372A30;
+    text-decoration:underline;
+    text-decoration-style: dotted
+
+}
+
+a:visited {
+    color: #372A30;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color:#372A30;
+    text-decoration: underline;
+}
+
+
+
